@@ -1,3 +1,3 @@
-# PVContrast
-This is an official repository of PVContrast.
-All resources will be updated later.
+# PVContrast: Official repository of PVContrast.
+
+Resources will be uploaded after the paper is published
